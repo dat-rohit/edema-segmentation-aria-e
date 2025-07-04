@@ -164,6 +164,12 @@ python generate_report.py
 # Output: Comprehensive HTML report with visualizations
 ```
 
+### **Sample Report Output**
+The automated report generation produces comprehensive HTML reports with quantitative analysis and visualizations:
+
+![ARIA-E Report](ARIA-E_report.jpg)
+*Example of generated ARIA-E monitoring report showing edema analysis and longitudinal findings*
+
 ---
 
 ## 📋 Key Features
@@ -210,4 +216,6 @@ MIT License
 ---
 
 ## 📧 Contact
-For questions or collaboration opportunities, please reach out to the development team through the hackathon organizers.
+For questions or collaboration opportunities:
+- **Rohitkumar Datchanamourty**: rohitkumar.datchanamourty@telecom-sudparis.eu
+- **Mateo Zoughebi**: Contact through hackathon organizers
